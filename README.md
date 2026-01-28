@@ -1,4 +1,14 @@
-## Hi there 👋
+#<h1 align="center">Hi 👋, I'm Carter Mathlin</h1>
+##<h3 align="center">I am beginning Full Stack Development, Student at Medgar Evers College Preparatory School and Brooklyn STEAM Center</h3>
+
+- 📫 How to reach me **cartermathlin200928@gmail.com**
+
+- ⚡ Fun fact **I play basketball**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 <!--
 **cartermthegoat/cartermthegoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
